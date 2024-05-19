@@ -1,6 +1,6 @@
 # VQNHE_in_Pennylane
 
-Implementation of Variational Quantum Neural Hybrid Eigensolver(VQNHE)[1] for solving the energy of the Transverse Field Ising Model(TFIM) in pennylane.
+Implementation of Variational Quantum Neural Hybrid Eigensolver(VQNHE)[1] for solving the ground state energy of the Transverse Field Ising Model(TFIM) in pennylane.
 
 
 You can see my presentation related to this code in the following youtube link. My presentation starts at 29:20.
